@@ -1,5 +1,6 @@
 body {
-    background: grey;
+    background: black;
+    color: white;
     font-family: 'Montserrat', sans-serif;
     width: 500px;
     margin: 0px auto;
@@ -12,4 +13,13 @@ label {
 
 ul {
     margin-top: 50px;
+}
+
+span {
+    float: left;
+}
+
+.completed {
+    color: grey;
+    text-decoration: line-through;
 }
