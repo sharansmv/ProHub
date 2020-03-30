@@ -8,6 +8,7 @@
 - Habit Tracker
 - Note Taker
 - List Maker
+- Ambient Noises (for productivity)
 - Outliner like dynalist.io
 - RSS Feeds from productivity sites
 - Mind Mapper(?)
